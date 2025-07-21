@@ -2,6 +2,7 @@
 
 STEP 1: Setup & Import
 
+!pip install folium --quiet
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
